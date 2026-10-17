@@ -1,0 +1,134 @@
+[
+  {
+    "id": "1",
+    "name": "Đà Lạt mộng mơ cùng Huỳnh Khánh",
+    "city": "Đà Lạt",
+    "days": 3,
+    "price": 3590000,
+    "seats": 12,
+    "departure": "2026-11-05",
+    "image": "https://picsum.photos/seed/dalat/400/300",
+    "isFavorite": true
+  },
+  {
+    "id": "2",
+    "name": "Săn mây Cầu Đất",
+    "city": "Đà Lạt",
+    "days": 2,
+    "price": 2190000,
+    "seats": 0,
+    "departure": "2026-11-20",
+    "image": "https://picsum.photos/seed/caudat/400/300",
+    "isFavorite": false
+  },
+  {
+    "id": "3",
+    "name": "Đà Lạt - Langbiang trekking",
+    "city": "Đà Lạt",
+    "days": 4,
+    "price": 4290000,
+    "seats": 2,
+    "departure": "2026-12-10",
+    "image": "https://picsum.photos/seed/langbiang/400/300",
+    "isFavorite": false
+  },
+  {
+    "id": "4",
+    "name": "Hà Nội 36 phố phường",
+    "city": "Hà Nội",
+    "days": 3,
+    "price": 3890000,
+    "seats": 15,
+    "departure": "2026-11-12",
+    "image": "https://picsum.photos/seed/hanoi/400/300",
+    "isFavorite": false
+  },
+  {
+    "id": "5",
+    "name": "Hà Nội - Ninh Bình - Tràng An",
+    "city": "Hà Nội",
+    "days": 4,
+    "price": 5490000,
+    "seats": 1,
+    "departure": "2026-12-01",
+    "image": "https://picsum.photos/seed/ninhbinh/400/300",
+    "isFavorite": true
+  },
+  {
+    "id": "6",
+    "name": "Hà Nội mùa thu",
+    "city": "Hà Nội",
+    "days": 2,
+    "price": 2490000,
+    "seats": 8,
+    "departure": "2026-10-30",
+    "image": "https://picsum.photos/seed/hanoiautumn/400/300",
+    "isFavorite": false
+  },
+  {
+    "id": "7",
+    "name": "Phố cổ Hội An về đêm",
+    "city": "Hội An",
+    "days": 2,
+    "price": 2790000,
+    "seats": 0,
+    "departure": "2026-11-15",
+    "image": "https://picsum.photos/seed/hoian/400/300",
+    "isFavorite": false
+  },
+  {
+    "id": "8",
+    "name": "Hội An - Cù Lao Chàm",
+    "city": "Hội An",
+    "days": 3,
+    "price": 3990000,
+    "seats": 6,
+    "departure": "2026-12-05",
+    "image": "https://picsum.photos/seed/culaocham/400/300",
+    "isFavorite": false
+  },
+  {
+    "id": "9",
+    "name": "Cố đô Huế trầm mặc",
+    "city": "Huế",
+    "days": 3,
+    "price": 3290000,
+    "seats": 3,
+    "departure": "2026-11-08",
+    "image": "https://picsum.photos/seed/hue/400/300",
+    "isFavorite": false
+  },
+  {
+    "id": "10",
+    "name": "Huế - Phong Nha",
+    "city": "Huế",
+    "days": 4,
+    "price": 5990000,
+    "seats": 10,
+    "departure": "2026-12-20",
+    "image": "https://picsum.photos/seed/phongnha/400/300",
+    "isFavorite": false
+  },
+  {
+    "id": "11",
+    "name": "Sài Gòn - Củ Chi",
+    "city": "TP. Hồ Chí Minh",
+    "days": 1,
+    "price": 890000,
+    "seats": 20,
+    "departure": "2026-11-02",
+    "image": "https://picsum.photos/seed/saigon/400/300",
+    "isFavorite": false
+  },
+  {
+    "id": "12",
+    "name": "Phú Quốc nắng vàng",
+    "city": "Phú Quốc",
+    "days": 4,
+    "price": 6890000,
+    "seats": 5,
+    "departure": "2026-12-15",
+    "image": "https://picsum.photos/seed/phuquoc/400/300",
+    "isFavorite": false
+  }
+]
